@@ -19,18 +19,7 @@
     "compiler": "gc",
     "platform": "windows/amd64"
   },
-  "kustomizeVersion": "v4.5.7",
-  "serverVersion": {
-    "major": "1",
-    "minor": "25",
-    "gitVersion": "v1.25.9",
-    "gitCommit": "a1a87a0a2bcd605820920c6b0e618a8ab7d117d4",
-    "gitTreeState": "clean",
-    "buildDate": "2023-04-12T12:08:36Z",
-    "goVersion": "go1.19.8",
-    "compiler": "gc",
-    "platform": "linux/amd64"
-  }
+  "kustomizeVersion": "v4.5.7"
 }
 ```
 > 4. **`Docker Desktop`** makes developing applications for Kubernetes easy. It provides a smooth Kubernetes setup experience by hiding the complexity of the installation and wiring with the host.</br>
